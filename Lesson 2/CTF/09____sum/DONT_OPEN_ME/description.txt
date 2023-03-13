@@ -1,0 +1,6 @@
+There is a simple calculator; can you exploit it?
+
+nc 127.0.0.1 22226
+
+(use ./docker_run.sh to run the server locally)
+

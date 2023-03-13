@@ -1,0 +1,6 @@
+It's 1996 all over again!
+
+nc 127.0.0.1 22227
+
+(use ./docker_run.sh to run the server locally)
+
